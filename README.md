@@ -37,9 +37,7 @@
 ## ‎
 
 <p align="center">
-  <a href="https://starlightdaemon.dev"><img src="https://cdn.simpleicons.org/githubpages/4d8ef0" width="32"/></a>
-</p>
-<p align="center">
+  <a href="https://starlightdaemon.dev"><img src="https://avatars.githubusercontent.com/u/23347919?size=32" width="32" style="border-radius:50%"/></a> &nbsp;
   <a href="https://homelab.starlightdaemon.dev"><img src="https://cdn.simpleicons.org/proxmox/E57000" width="32"/></a> &nbsp;
   <a href="https://afterglows.starlightdaemon.dev"><img src="https://cdn.simpleicons.org/internetarchive/4d8ef0" width="32"/></a> &nbsp;
   <a href="https://github.com/StarlightDaemon"><img src="https://cdn.simpleicons.org/github/ffffff" width="32"/></a>
