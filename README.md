@@ -20,7 +20,7 @@
 | [**Hardlink Organizer**](https://github.com/StarlightDaemon/HardlinkOrganizer) | Preview-first hardlink planning tool with Web UI, CLI, and SQLite-backed history | `Python` `FastAPI` `SQLite` |
 | [**Afterglows**](https://github.com/StarlightDaemon/Afterglows) | Reusable CSS/JS library — Stargate sequences, Matrix rain, CRT terminal effects | `HTML` `CSS` `JavaScript` |
 
-## ‎
+## 🧰 Skills & Tools
 
 **Languages & Runtime**
 
@@ -34,7 +34,7 @@
 
 <a href="https://docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36"/></a> &nbsp; <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/></a> &nbsp; <a href="https://sqlite.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36"/></a> &nbsp; <a href="https://www.postgresql.org"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36"/></a> &nbsp; <a href="https://fastapi.tiangolo.com"><img src="https://cdn.simpleicons.org/fastapi/009688" width="36"/></a> &nbsp; <a href="https://nginx.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36"/></a> &nbsp; <a href="https://proxmox.com"><img src="https://cdn.simpleicons.org/proxmox/E57000" width="36"/></a> &nbsp; <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36"/></a> &nbsp; <a href="https://insomnia.rest"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="36"/></a>
 
-## ‎
+## Find me Elsewhere
 
 <p align="center">
   <a href="https://starlightdaemon.dev"><img src="https://avatars.githubusercontent.com/u/23347919?size=32" width="32" style="border-radius:50%"/></a> &nbsp;
