@@ -45,6 +45,6 @@
 </p>
 <p align="center">
   <a href="https://homelab.starlightdaemon.dev"><img src="https://cdn.simpleicons.org/proxmox/E57000" width="32"/></a> &nbsp;
-  <a href="https://afterglows.starlightdaemon.dev"><img src="https://cdn.simpleicons.org/codepen/4d8ef0" width="32"/></a> &nbsp;
+  <a href="https://afterglows.starlightdaemon.dev"><img src="https://cdn.simpleicons.org/atom/4d8ef0" width="32"/></a> &nbsp;
   <a href="https://github.com/StarlightDaemon"><img src="https://cdn.simpleicons.org/github/ffffff" width="32"/></a>
 </p>
